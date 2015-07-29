@@ -1,0 +1,88 @@
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\obj\Debug\PeriodicTableAPI.csprojResolveAssemblyReference.cache
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.pdb
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Antlr3.Runtime.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Core.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Windsor.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\EntityFramework.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Newtonsoft.Json.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Domain.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Services.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Helpers.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Mvc.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Optimization.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Providers.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Razor.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\WebGrease.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Repository.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.DataLayer.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Domain.pdb
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Services.pdb
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Core.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Windsor.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\EntityFramework.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\Newtonsoft.Json.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Helpers.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Mvc.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Razor.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Repository.pdb
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.DataLayer.pdb
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\obj\Debug\PeriodicTableAPI.dll
+C:\Users\coco\Documents\Visual Studio 2012\Projects\PeriodicTableAPI\PeriodicTableAPI\obj\Debug\PeriodicTableAPI.pdb
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.pdb
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Antlr3.Runtime.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Core.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Windsor.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\EntityFramework.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Newtonsoft.Json.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Domain.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Services.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Helpers.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Mvc.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Optimization.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Providers.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Razor.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\WebGrease.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Repository.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.DataLayer.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Domain.pdb
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Services.pdb
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Core.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Castle.Windsor.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\EntityFramework.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\Newtonsoft.Json.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Helpers.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Mvc.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.Razor.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.Repository.pdb
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\bin\PeriodicTableAPI.DataLayer.pdb
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\obj\Debug\PeriodicTableAPI.csprojResolveAssemblyReference.cache
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\obj\Debug\PeriodicTableAPI.dll
+C:\Users\veronica.sotali\Desktop\PeriodicTableAPI\PeriodicTableAPI\PeriodicTableAPI\obj\Debug\PeriodicTableAPI.pdb
